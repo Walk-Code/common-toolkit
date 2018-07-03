@@ -1,5 +1,9 @@
 <?php
 namespace HelperUtils\DateHelper;
+use DateInterval;
+use DatePeriod;
+use DateTime;
+
 /**
  *
  * <b>DateHelper.php</b></br>
