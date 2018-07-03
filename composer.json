@@ -1,0 +1,20 @@
+{
+    "name": "xqyjjq/packages",
+    "description": "Common Toolkit",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xqyjjq",
+            "email": "walk_code@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelperUtils\\": "src/HelperUtils"
+        }
+    }
+}
