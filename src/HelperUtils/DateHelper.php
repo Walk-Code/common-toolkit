@@ -1,5 +1,5 @@
 <?php
-
+namespace HelperUtils\DateHelper;
 /**
  *
  * <b>DateHelper.php</b></br>

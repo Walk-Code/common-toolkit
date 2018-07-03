@@ -1,5 +1,5 @@
 <?php
-
+namespace HelperUtils\HttpHelper;
 /**
  *
  * <b>HttpHelper.php</b></br>
