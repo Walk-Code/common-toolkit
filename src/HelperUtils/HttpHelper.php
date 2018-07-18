@@ -1,5 +1,5 @@
 <?php
-namespace HelperUtils\HttpHelper;
+namespace HelperUtils;
 /**
  *
  * <b>HttpHelper.php</b></br>
@@ -73,6 +73,4 @@ class  HttpHelper {
 
 		return $responBody;
 	}
-
-
 }
